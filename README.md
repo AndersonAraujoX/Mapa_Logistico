@@ -15,7 +15,8 @@ Este projeto explora o mapa logístico, um sistema dinâmico que exibe comportam
 ## Geração do Mapa Logístico
 
 O código implementa a função logística iterativamente para diferentes valores do parâmetro μ. A função logística é definida como:
-$x_{1}=\mu \x_{0}(1-x_{0})$
+
+$$x_{1}=\mu x_{0}(1-x_{0})$$
 
 Onde:
 
